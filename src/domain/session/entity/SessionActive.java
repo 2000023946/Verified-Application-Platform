@@ -1,4 +1,4 @@
-package domain.session;
+package domain.session.entity;
 
 import domain.vo.UserId;
 

@@ -1,4 +1,4 @@
-package domain.order;
+package domain.order.entity;
 
 import domain.vo.OrderId;
 import domain.vo.Money;

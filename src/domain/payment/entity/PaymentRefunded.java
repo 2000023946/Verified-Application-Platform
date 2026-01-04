@@ -1,4 +1,4 @@
-package domain.payment;
+package domain.payment.entity;
 
 import domain.vo.Money;
 

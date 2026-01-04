@@ -1,8 +1,8 @@
-package domain.order;
+package domain.order.entity;
 
 import domain.vo.OrderId;
+import domain.payment.entity.PaymentAuthorized;
 import domain.vo.Money;
-import domain.payment.PaymentAuthorized;
 
 public final class OrderDraft extends Order {
 

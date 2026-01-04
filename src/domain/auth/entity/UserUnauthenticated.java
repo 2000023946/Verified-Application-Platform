@@ -1,4 +1,4 @@
-package domain.auth;
+package domain.auth.entity;
 
 import domain.vo.UserId;
 import domain.vo.Email;
